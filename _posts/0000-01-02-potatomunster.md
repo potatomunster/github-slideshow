@@ -2,5 +2,5 @@
 layout: slides
 title: "welcome to our second slide!"
 ---
-Your text
+beans are the power house of the cell
 use the left arrow to go back
